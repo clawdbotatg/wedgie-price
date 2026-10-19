@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "mod": "price",
+      "name": "ETH Price",
+      "about": "The ETH price from wedgie.dev, signed, checked on the wedgie: the computer can't fake it.",
+      "files": ["price.py"],
+      "entry": "run",
+      "fw": "0.3.17",
+      "usb": true,
+      "label": "#5b6cff",
+      "icon": ["............", ".....kk.....", "....kbbk....", "...kbbbbk...", "..kbbbbbbk..", ".kbbbbbbbbk.", ".kkbbbbbbkk.", "..kkkbbkkk..", "...kkbbkk...", "....kbbk....", ".....kk.....", "............"]
+    }
+  ]
+}
